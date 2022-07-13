@@ -1,0 +1,37 @@
+{
+  "name": "Fnotícias",
+  "short_name": "Fnotícias",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#e3e3e3",
+  "description": "O melhor blog de notícias recomendadas!",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-1m9Qiiu7XJ0O_cVDBs21Dk6qjVlzDt1MhABxTifvC0UxBXAb06eu6325YvV07lsH-ppKGIT30I9kJNa4mk1cAhXdsl3_5DhbVG0gzwDsQE3upyWWfBhXx77lSq0v5FfeI5E3_8EtVxzD99Yfods8NeH3wXdUv2QpT_lfC2i-Dow5kt0cVJCfjYmF/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBgYMi6KuMWtWNsH0OG0E1UR0eqSBNK1NpudPbukCPpN-Otd0YQ4FjRnDzljJOe1cM-ZfxIO29T_YjfdTBfBuk2msRBgFCHRaGDYl6nTZ-P-DqSDpevv2UW27U9vTc1aj1Pai_XgidvaDK-4fuEN4CQjxmkxE8DW1vIPDCl053YdaLTL9b4RgCzVcD/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfFqs46Z_CMvN7X_v_UKP5AWiCMpIUjcAl7-hK77O6NL3Z9un9o7N7enwN8Tt-8uRs-i3Yh9wqPbbTah12kKdbdbzJlppvueB_J8UuLIH1RI_pn27ioABPZYvZiNK4g3iaTT1aqJvWk5Y08HVyDPlyx5O9dbKg_qoKzMUn553mjkBbD7fEEc9VeY0h/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMc6scNVTTK7lIsAvh3tSY05m_R3XKAO7a682yFq54BcQ_aIhsdZVr-itkECKLjl-EZwm7Y06r2bAUcxyi8VDmHwi7liGqi-8OTIXLrIOqoRcrNvirMXTnkhhjI_6FNk9w2j7ep4S0hF1qLWu_MvAVtcbfqijIoqsp9VGyMYm9oK4eI49p-n6-RoCz/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjihCWusWuFJaXg-oU4SmU3mHZJQfP5_8BJCoX8j_sl4pgieV7Mfzc7IWgjKXawoBGdtIuwLga74pFoDXPBQQ4mmH2fcZNfpIAPLQcikQqblz008lAYRbl5FyPhEXVvQsLcU-TySpHuqzxOGTh9SF-3QcMsCWRjVE223wntM0S0l4wAn6UF1jS-vFOb/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjebmZkIYkoXBibD7qMNpSpEPQTE2jVy3cf7qmv7h1dD-c9zTKfRewyYTPk0uULSCqpaU6tNgNg4ajOMNbJ43oTAr466lTMqC0pgC5oSXrgZnK53V2wfKAEwj8cLn7x4aNkMbdnsfiGbKqIYb93_aiX2XqWPzJ2RxMsmoKLmWoAot-W_S4OtO74fQLJ/s1600/ms-icon-310x310.png",
+    "sizes": "310x310",
+    "type": "image/png"
+  } {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXOUR397s8llos4DhYtVZsHvLsH0dtWsBXl_3XeF2nooteI8MuuRH4eaxCKaRsENBWH2tL3TRo6rf6QdpLwAhumvzUM0EGrJQDiTjadVqBB2RvXKztPmq-gVe8clfEn2bH5gtTaxFE02tSL8_HzTEh4D_D5F8Jc8Ny05g42o9NJJPEkcvaBtnQhv51/s1600/logo%20fnoticias%20500x500.png",
+    "sizes": "500x500",
+    "type": "image/png",
+}],
+}
